@@ -1,4 +1,4 @@
-package com.example.increasegamerm121224pl;
+package com.dazconsultingds.increasegamerm121224pl;
 
 import org.junit.Test;
 

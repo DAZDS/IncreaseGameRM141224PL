@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.increasegamerm121224pl'
+    namespace 'com.dazconsultingds.increasegamerm121224pl'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.example.increasegamerm121224pl"
+        applicationId "com.dazconsultingds.increasegamerm121224pl"
         minSdk 24
         targetSdk 36
         versionCode 1
